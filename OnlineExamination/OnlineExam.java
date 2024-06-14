@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Timer;
 import java.util.TimerTask;
-//The default username and passowrd is 
+//The default username and passowrd is given below.
 //Username: student
 //Password: 123456
 
